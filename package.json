@@ -1,5 +1,5 @@
 {
-  "name": "custom-routes-proxying",
+  "name": "i18n-routing-rewrites-vercel-now",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -10,6 +10,5 @@
     "next": "^10.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
-  },
-  "license": "MIT"
+  }
 }
