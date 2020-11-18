@@ -21,15 +21,35 @@ export default function Stock() {
       <h3>This is the /stock page</h3>
 
       <Link href="/" locale={router.locale}>
-        <a>&larr; Navigate to Home page</a>
+        <a>&larr; Navigate to Home page (uses Rewrites)</a>
       </Link>
 
       <br />
 
       <Link href="/about" locale={router.locale}>
-        <a>&larr; Navigate to About page</a>
+        <a>&larr; Navigate to About page (uses Rewrites)</a>
       </Link>
 
+      <br />
+
+      <Link href="/partners" locale={router.locale}>
+        <a>&larr; Navigate to Partners page (uses Rewrites)</a>
+      </Link>
+
+      <br />
+
+      <Link href="/training" locale={router.locale}>
+        <a>&larr; Navigate to Training page (uses Rewrites)</a>
+      </Link>
+
+      <br />
+      <br />
+
+      <Link href="/stock" locale={router.locale}>
+        <a>&larr; Navigate to Stock page (Next.js page)</a>
+      </Link>
+
+      <br />
       <br />
 
       <select
