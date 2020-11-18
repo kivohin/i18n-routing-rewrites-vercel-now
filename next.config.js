@@ -19,25 +19,25 @@ module.exports = {
         // source: "/en",
         source: "/en(/|)",
         destination: "https://globalvacuumpresses.com/",
-        // locale: false,
+        locale: false,
       },
       {
         // source: "/en/about",
         source: "/en/about(/|)",
         destination: "https://globalvacuumpresses.com/company/",
-        // locale: false,
+        locale: false,
       },
       {
         // source: "/en/partners",
         source: "/en/partners(/|)",
         destination: "https://globalvacuumpresses.com/partners/",
-        // locale: false,
+        locale: false,
       },
       {
         // source: "/en/training",
         source: "/en/training(/|)",
         destination: "https://globalvacuumpresses.com/rdt_centre/",
-        // locale: false,
+        locale: false,
       },
 
       // Spanish
@@ -45,27 +45,27 @@ module.exports = {
         // source: "/es",
         source: "/es(/|)",
         destination: "https://globalvacuumpresses.com/es/",
-        // locale: false,
+        locale: false,
       },
       {
         // source: "/es/about",
         source: "/es/about(/|)",
         destination: "https://globalvacuumpresses.com/es/empresa/",
-        // locale: false,
+        locale: false,
       },
 
       {
         // source: "/es/partners",
         source: "/es/partners(/|)",
         destination: "https://globalvacuumpresses.com/es/socio-de-global-vp/",
-        // locale: false,
+        locale: false,
       },
       {
         // source: "/es/training",
         source: "/es/training(/|)",
         destination:
           "https://globalvacuumpresses.com/es/centro-de-investigacion-desarrollo-y-formacion/",
-        // locale: false,
+        locale: false,
       },
 
       // French
@@ -73,26 +73,26 @@ module.exports = {
         // source: "/fr",
         source: "/fr(/|)",
         destination: "https://globalvacuumpresses.com/fr/",
-        // locale: false,
+        locale: false,
       },
       {
         // source: "/fr/about",
         source: "/fr/about(/|)",
         destination: "https://globalvacuumpresses.com/fr/societe/",
-        // locale: false,
+        locale: false,
       },
       {
         // source: "/fr/partners",
         source: "/fr/partners(/|)",
         destination: "https://globalvacuumpresses.com/fr/nouvelles/",
-        // locale: false,
+        locale: false,
       },
       {
         // source: "/fr/training",
         source: "/fr/training(/|)",
         destination:
           "https://globalvacuumpresses.com/fr/centre-de-recherche-de-developpement-et-de-formation/",
-        // locale: false,
+        locale: false,
       },
     ];
   },
